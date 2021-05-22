@@ -4,7 +4,7 @@ namespace DIOBank.Projeto
     public enum OpcoesConta
     {
         PessoaFisica = 1,
-        PessoaJuridica = 2,
+        PessoaJuridica = 2
        
     }
 }
