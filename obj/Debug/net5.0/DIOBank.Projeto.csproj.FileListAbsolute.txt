@@ -1,0 +1,16 @@
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto.deps.json
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto.runtimeconfig.json
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto.runtimeconfig.dev.json
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto.dll
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/ref/DIOBank.Projeto.dll
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/bin/Debug/net5.0/DIOBank.Projeto.pdb
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.csprojAssemblyReference.cache
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.AssemblyInfoInputs.cache
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.AssemblyInfo.cs
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.csproj.CoreCompileInputs.cache
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.dll
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/ref/DIOBank.Projeto.dll
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.pdb
+/home/sete/MEGAsync/dotNet/TransferenciasBancárias/DIOBank.Projeto/obj/Debug/net5.0/DIOBank.Projeto.genruntimeconfig.cache
